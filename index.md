@@ -1,5 +1,5 @@
 ---
-title: Welcom
+title: Welcome
 layout: default
 ---
 

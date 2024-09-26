@@ -1,14 +1,14 @@
-title: Pyscado site
-author:
-  name: Pyscado
+title: Research Blog for Malware
+#author:
+  #name: Pyscado
 
 description: >
   This site is a place for me to upload write ups and projects related to
   malware development and reverse engineering.
 
-theme: minima
+#theme: minima
 
-#remote_theme: jekyll/minima
+remote_theme: jekyll/minima
 
 plugins:
   - jekyll-feed

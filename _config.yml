@@ -6,13 +6,13 @@ description: >
   This site is a place for me to upload write ups and projects related to
   malware development and reverse engineering.
 
-#theme: minima
+theme: minima
 
-remote_theme: jekyll/minima
+#remote_theme: jekyll/minima
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+#plugins:
+  #- jekyll-feed
+  #- jekyll-seo-tag
 
 #header_pages:
 #  - about.md

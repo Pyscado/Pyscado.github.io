@@ -1,18 +1,17 @@
-title: Research Blog for Malware
+title: A Detection Engineering Blog
 #author:
   #name: Pyscado
 
 description: >
-  This site is a place for me to upload write ups and projects related to
-  malware development and reverse engineering.
+  This site is a place for me to upload write ups and projects related to Detection Engineering.
 
 theme: minima
 
-#remote_theme: jekyll/minima
+remote_theme: jekyll/minima
 
-#plugins:
-  #- jekyll-feed
-  #- jekyll-seo-tag
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 #header_pages:
 #  - about.md

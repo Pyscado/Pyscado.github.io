@@ -7,6 +7,7 @@ Hello, World!
 
 Welcome to my ramblings on Detection Engineering and Malware, I hope you enjoy your stay.
 
-insert new write-up [here](https://pyscado.github.io/antianalysis.html)
-> Tool Mania.
+Tool Mania [here](https://pyscado.github.io/toolmania.html)
+> Living in a crowded toolbox.
+
 
